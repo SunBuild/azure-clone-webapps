@@ -1,0 +1,13 @@
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\AzureWebAppClone.exe.config
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\obj\Debug\AzureWebAppClone.csprojResolveAssemblyReference.cache
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\AzureWebAppClone.exe
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\AzureWebAppClone.pdb
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\Microsoft.Web.Delegation.dll
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\Microsoft.Web.Deployment.dll
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\Microsoft.Web.Deployment.Powershell.dll
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\Microsoft.Web.Deployment.Tracing.dll
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\Microsoft.Web.Administration.dll
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\obj\Debug\AzureWebAppClone.exe
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\obj\Debug\AzureWebAppClone.pdb
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\PowerArgs.dll
+c:\users\sumuth\documents\visual studio 2015\Projects\AzureWebAppClone\AzureWebAppClone\bin\Debug\PowerArgs.xml
