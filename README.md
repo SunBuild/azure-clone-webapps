@@ -4,7 +4,9 @@ Allows you to clone one web app to another web app on azure app service web apps
 #Usage
 Download the tool from Release folder. Before running the tool download the source and destination web app's publish settings file from the Azure Portal .  If your application has a database , update SQLServerDBConnectionString (if using sql azure databse) or mySQLDBConnectionString ( if using mysql datbase) to point to remote database associated with the app 
 
-   AzureWebAppClone.exe -s <source publish settings> -d <dest publish settings>
+```
+   AzureWebAppClone.exe -s path-to-source-publish-settings -d path-to-dest-publish-settings
+```
 
 #Example
 
