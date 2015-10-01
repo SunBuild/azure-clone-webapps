@@ -131,7 +131,7 @@ namespace AzureWebAppClone
             {
                 destProviderOptions = new DeploymentProviderOptions(DeploymentWellKnownProvider.DBMySql);
                 destProviderOptions.Path = dest.mysqlConnectionstring;
-               sourceObj = DeploymentManager.CreateObject(DeploymentWellKnownProvider.DBMySql, dest.mysqlConnectionstring, sourceBaseOptions);
+               sourceObj = DeploymentManager.CreateObject(DeploymentWellKnownProvider.DBMySql, src.mysqlConnectionstring, sourceBaseOptions);
 
             }
             else if (dbtype.Equals("sql", StringComparison.InvariantCultureIgnoreCase))
