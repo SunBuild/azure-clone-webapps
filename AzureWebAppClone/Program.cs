@@ -151,7 +151,14 @@ namespace AzureWebAppClone
         }
         public static void SyncWebApps(Profile src, Profile dest)
         {
-            DeploymentSyncOptions syncOptions = new DeploymentSyncOptions();
+            DeploymentSyncOptions syncOptions = new DeploymentSyncOptions()
+            {
+                Rules =
+                {
+                    new DeploymentSkipRule("SkipASearch", "AddChild", "dirPath", "app.data.search", ""),
+                    new DeploymentSkipRule("SkipUSearch", "Update", "dirPath", "app.data.search", "")
+                }
+            };
 
             DeploymentBaseOptions sourceBaseOptions = new DeploymentBaseOptions();
             sourceBaseOptions.ComputerName = "https://" + src.publishUrl + "/msdeploy.axd";
